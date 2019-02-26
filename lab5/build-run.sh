@@ -1,0 +1,1 @@
+g++ -o Lab5 data.cpp Lab5.cpp -fopenmp && ./Lab5

@@ -1,0 +1,31 @@
+C:\Users\andri\Desktop\Edu\OPP\Lab3\bin\Debug\netcoreapp2.0\Lab3.deps.json
+C:\Users\andri\Desktop\Edu\OPP\Lab3\bin\Debug\netcoreapp2.0\Lab3.runtimeconfig.json
+C:\Users\andri\Desktop\Edu\OPP\Lab3\bin\Debug\netcoreapp2.0\Lab3.runtimeconfig.dev.json
+C:\Users\andri\Desktop\Edu\OPP\Lab3\bin\Debug\netcoreapp2.0\Lab3.dll
+C:\Users\andri\Desktop\Edu\OPP\Lab3\bin\Debug\netcoreapp2.0\Lab3.pdb
+C:\Users\andri\Desktop\Edu\OPP\Lab3\obj\Debug\netcoreapp2.0\Lab3.csprojAssemblyReference.cache
+C:\Users\andri\Desktop\Edu\OPP\Lab3\obj\Debug\netcoreapp2.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\Edu\OPP\Lab3\obj\Debug\netcoreapp2.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\andri\Desktop\Edu\OPP\Lab3\obj\Debug\netcoreapp2.0\Lab3.AssemblyInfo.cs
+C:\Users\andri\Desktop\Edu\OPP\Lab3\obj\Debug\netcoreapp2.0\Lab3.dll
+C:\Users\andri\Desktop\Edu\OPP\Lab3\obj\Debug\netcoreapp2.0\Lab3.pdb
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\bin\Debug\netcoreapp2.0\Lab3.deps.json
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\bin\Debug\netcoreapp2.0\Lab3.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\bin\Debug\netcoreapp2.0\Lab3.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\bin\Debug\netcoreapp2.0\Lab3.dll
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\bin\Debug\netcoreapp2.0\Lab3.pdb
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\obj\Debug\netcoreapp2.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\obj\Debug\netcoreapp2.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\obj\Debug\netcoreapp2.0\Lab3.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\obj\Debug\netcoreapp2.0\Lab3.dll
+C:\Users\Lenovo\Downloads\Telegram Desktop\Lab3\obj\Debug\netcoreapp2.0\Lab3.pdb
+D:\Учеба\ОПП\Код\lab3\bin\Debug\netcoreapp2.0\Lab3.deps.json
+D:\Учеба\ОПП\Код\lab3\bin\Debug\netcoreapp2.0\Lab3.runtimeconfig.json
+D:\Учеба\ОПП\Код\lab3\bin\Debug\netcoreapp2.0\Lab3.runtimeconfig.dev.json
+D:\Учеба\ОПП\Код\lab3\bin\Debug\netcoreapp2.0\Lab3.dll
+D:\Учеба\ОПП\Код\lab3\bin\Debug\netcoreapp2.0\Lab3.pdb
+D:\Учеба\ОПП\Код\lab3\obj\Debug\netcoreapp2.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Учеба\ОПП\Код\lab3\obj\Debug\netcoreapp2.0\Lab3.AssemblyInfoInputs.cache
+D:\Учеба\ОПП\Код\lab3\obj\Debug\netcoreapp2.0\Lab3.AssemblyInfo.cs
+D:\Учеба\ОПП\Код\lab3\obj\Debug\netcoreapp2.0\Lab3.dll
+D:\Учеба\ОПП\Код\lab3\obj\Debug\netcoreapp2.0\Lab3.pdb
